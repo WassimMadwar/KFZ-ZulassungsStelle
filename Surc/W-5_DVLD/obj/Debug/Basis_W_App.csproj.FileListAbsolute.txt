@@ -1,0 +1,14 @@
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\bin\Debug\Basis_W_App.exe.config
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\bin\Debug\Basis_W_App.exe
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\bin\Debug\Basis_W_App.pdb
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\obj\Debug\Basis_W_App.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\obj\Debug\Basis_W_App.Properties.Resources.resources
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\obj\Debug\Basis_W_App.csproj.GenerateResource.cache
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\obj\Debug\Basis_W_App.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\obj\Debug\Basis_W_App.exe
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\obj\Debug\Basis_W_App.pdb
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\bin\Debug\W_Business_.dll
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\bin\Debug\W_Data_.dll
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\bin\Debug\W_Business_.pdb
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\bin\Debug\W_Data_.pdb
+C:\Users\Wassim\work\C#\Small Project\Basis_W\Basis_W_App\obj\Debug\Basis_W_.A9AA58BD.Up2Date
