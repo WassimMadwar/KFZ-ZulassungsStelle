@@ -57,9 +57,9 @@ KFZ-Zulassungsstelle  Verwaltungssystem ist eine umfassende Desktop-Softwarelös
 ## Verwendete Technologien
 - **Framework:** .NET Framework (C#)
 - **Datenbank:** Microsoft SQL Server mit ADO.NET
-- **Benutzeroberfläche:** Windows Forms (WinForms)
+- **User Interface:** Windows Forms (WinForms)
 - **Authentifizierung:** Benutzerdefiniertes Benutzerauthentifizierungssystem
 - **Architektur:** 3-tier  Architektur
 - **Bereitstellung:** Eigenständige Desktopanwendung
 
-Sie können gerne zum Projekt beitragen, indem Sie Probleme melden oder Pull Requests senden. Bei Fragen kontaktieren Sie uns unter `wassimmadwar@gmail.com`
+Sie können gerne zum Projekt beitragen,  oder Pull Requests senden. Bei Fragen kontaktieren Sie uns unter `wassimmadwar@gmail.com`
