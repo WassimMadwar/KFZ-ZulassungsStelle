@@ -1,5 +1,6 @@
 # Version
 Es handelt sich um eine Desktop-Anwendung in der englischen Sprachversion. In Kürze kommt eine deutsche Version als Backend mit Restful-API für Endpunkte.
+
 ### Was habe ich von diesem Projekt gelernt:
 
 - wie man die Beziehung zwischen Tabellen in der Datenbank darstellt .
@@ -10,8 +11,12 @@ Es handelt sich um eine Desktop-Anwendung in der englischen Sprachversion. In K�
 
 - wie man Analyse der Programmanforderungen .
 
-- wie man implementiert und benutzt CURD operation . 
+- wie man CRUD-Operationen implementiert und verwendet.
 
+- wie man Konzepte der objektorientierten Programmierung in die Code Organisation und Verwaltung integriert .
+
+- Ich habe diesen Code vom Online-Kurs  (https://programmingadvices.com/) implementiert und gelernt .
+  
 # KFZ-Zulassungsstelle En 
 KFZ-Zulassungsstelle  Verwaltungssystem ist eine umfassende Desktop-Softwarelösung zur Optimierung des Prozesses der Verwaltung von Führerscheinen und zugehörigen Anträgen. Es bietet verschiedene Funktionen für die Bearbeitung von Anträgen, Lizenzen, Prüfungen, Terminen und Benutzerverwaltung im Rahmen der Führerscheinvergabe und -verwaltung.
 
