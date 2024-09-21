@@ -1,6 +1,24 @@
 # Version
 Es handelt sich um eine Desktop-Anwendung in der englischen Sprachversion. In Kürze kommt eine deutsche Version als Backend mit Restful-API für Endpunkte.
+### Das Credential ist :UserName = was , Password = 123 
 
+### Was habe ich von diesem Projekt gelernt:
+
+- wie man die Beziehung zwischen Tabellen in der Datenbank darstellt .
+
+- wie man über ADO.net eine Verbindung mit der Datenbank herstellt .
+
+- was das  Design Pattern 3-tier Architecture  bedeutet .
+
+- wie man Analyse der Programmanforderungen .
+
+- wie man CRUD-Operationen implementiert und verwendet.
+
+- wie man Konzepte der objektorientierten Programmierung in die Code Organisation und Verwaltung integriert .
+
+- Ich habe diesen Code durch Online-Kurs  (https://programmingadvices.com/) implementiert und gelernt .
+
+  
 # KFZ-Zulassungsstelle En 
 KFZ-Zulassungsstelle  Verwaltungssystem ist eine umfassende Desktop-Softwarelösung zur Optimierung des Prozesses der Verwaltung von Führerscheinen und zugehörigen Anträgen. Es bietet verschiedene Funktionen für die Bearbeitung von Anträgen, Lizenzen, Prüfungen, Terminen und Benutzerverwaltung im Rahmen der Führerscheinvergabe und -verwaltung.
 
@@ -57,9 +75,9 @@ KFZ-Zulassungsstelle  Verwaltungssystem ist eine umfassende Desktop-Softwarelös
 ## Verwendete Technologien
 - **Framework:** .NET Framework (C#)
 - **Datenbank:** Microsoft SQL Server mit ADO.NET
-- **Benutzeroberfläche:** Windows Forms (WinForms)
+- **User Interface:** Windows Forms (WinForms)
 - **Authentifizierung:** Benutzerdefiniertes Benutzerauthentifizierungssystem
 - **Architektur:** 3-tier  Architektur
 - **Bereitstellung:** Eigenständige Desktopanwendung
 
-Sie können gerne zum Projekt beitragen, indem Sie Probleme melden oder Pull Requests senden. Bei Fragen kontaktieren Sie uns unter `wassimmadwar@gmail.com`
+Sie können gerne zum Projekt beitragen,  oder Pull Requests senden. Bei Fragen kontaktieren Sie uns unter `wassimmadwar@gmail.com`
