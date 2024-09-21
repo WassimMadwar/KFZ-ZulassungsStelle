@@ -25,3 +25,12 @@ C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Business_\obj\Debug\W_Business_.cspro
 C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Business_\obj\Debug\W_Busine.15322C12.Up2Date
 C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Business_\obj\Debug\W_Business_.dll
 C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Business_\obj\Debug\W_Business_.pdb
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\bin\Debug\W_Business_.dll
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\bin\Debug\W_Business_.pdb
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\bin\Debug\W_Data_.dll
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\bin\Debug\W_Data_.pdb
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\obj\Debug\W_Business_.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\obj\Debug\W_Business_.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\obj\Debug\W_Busine.15322C12.Up2Date
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\obj\Debug\W_Business_.dll
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Business_\obj\Debug\W_Business_.pdb

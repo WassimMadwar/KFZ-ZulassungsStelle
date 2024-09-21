@@ -16,3 +16,9 @@ C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Data_\obj\Debug\W_Data_.csproj.Assemb
 C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Data_\obj\Debug\W_Data_.csproj.CoreCompileInputs.cache
 C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Data_\obj\Debug\W_Data_.dll
 C:\Users\Wassim\work\C#\Muster C#\W_Dlvd\W_Data_\obj\Debug\W_Data_.pdb
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Data_\bin\Debug\W_Data_.dll
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Data_\bin\Debug\W_Data_.pdb
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Data_\obj\Debug\W_Data_.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Data_\obj\Debug\W_Data_.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Data_\obj\Debug\W_Data_.dll
+C:\Users\Wassim\work\ToGitHub\C#\KFZ-Zulassungsstelle\Surc\W_Data_\obj\Debug\W_Data_.pdb
