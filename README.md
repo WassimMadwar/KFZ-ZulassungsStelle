@@ -16,7 +16,7 @@ Es handelt sich um eine Desktop-Anwendung in der englischen Sprachversion. In KÃ
 
 - wie man Konzepte der objektorientierten Programmierung in die Code Organisation und Verwaltung integriert .
 
-- Ich habe diesen Code durch Online-Kurs  (https://programmingadvices.com/) implementiert und gelernt .
+
 
   
 # KFZ-Zulassungsstelle En 
